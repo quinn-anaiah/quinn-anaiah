@@ -4,7 +4,7 @@ I’m a Master of Science in Software Engineering student at UTEP and a **Summa 
 
 ---
 
-## 🧩 About Me
+## 🟪 About Me
 - Experience across backend, frontend, systems, and ML development  
 - Built OS-level components in **C** for shell and parallel-computing coursework  
 - Developed full-stack web features in **C#** during a previous software engineering internship  
@@ -16,7 +16,7 @@ I’m a Master of Science in Software Engineering student at UTEP and a **Summa 
 
 ---
 
-## 🛠️ Tech Stack
+## 🟪 Tech Stack
 **Languages:** Python, Java, C, C#, JavaScript, TypeScript  
 **ML / Data:** TensorFlow, NumPy, Pandas, Keras, Sklearn
 **Databases:** MySQL, PostgreSQL, Firestore (NoSQL)  
@@ -25,7 +25,7 @@ I’m a Master of Science in Software Engineering student at UTEP and a **Summa 
 
 ---
 
-## 🎯 Interests
+## 🟪 Interests
 - Backend engineering  
 - Distributed and data-driven systems  
 - Scalable web applications  
